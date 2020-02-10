@@ -1,0 +1,11 @@
+PATH=$PATH:/c/Users/CHANGE_WITH_YOUR_USERNAME/AppData/Roaming/npm
+cd ~
+echo PATH=\$PATH:/c/Users/CHANGE_WITH_YOUR_USERNAME/AppData/Roaming/npm >> .bashrc
+
+https://github.com/da2k/curso-reactjs-ninja/blob/ed139ebd54edcac384817405cc22eae4772fa4cb/examples/m02/applications/github-app/package.json
+
+https://github.com/da2k/curso-reactjs-ninja/tree/ed139ebd54edcac384817405cc22eae4772fa4cb/examples/react-webpack
+
+https://github.com/da2k/curso-reactjs-ninja/blob/master/versions-of-dependencies.md
+
+https://github.com/standard/standard#install
